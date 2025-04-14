@@ -3,3 +3,4 @@ Munabila Plan
 (Syntax Python)
 - Belajar Javascript
 - Belajar Math
+- Learning Algebra
