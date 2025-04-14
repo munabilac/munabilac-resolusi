@@ -1,0 +1,5 @@
+Munabila Plan
+- Belajar Python
+(Syntax Python)
+- Belajar Javascript
+- Belajar Math
