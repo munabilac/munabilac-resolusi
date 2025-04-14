@@ -2,5 +2,7 @@ Munabila Plan
 - Belajar Python
 (Syntax Python)
 - Belajar Javascript
+(Syntax Javascript)
 - Belajar Math
 - Learning Algebra
+- Learning Data Structure
