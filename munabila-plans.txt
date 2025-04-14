@@ -5,3 +5,4 @@ Munabila Plan
 (Syntax Javascript)
 - Learn Arithmetic
 - Learning Algebra
+- Learning Data Structure
